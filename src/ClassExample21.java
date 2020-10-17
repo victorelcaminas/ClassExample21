@@ -4,7 +4,7 @@ class Example20bis {
         int year;
         boolean leap = false;
         System.out.println("Enter year:");
-//Reading the value
+        //Reading the value
         Scanner inputValue;
         inputValue = new Scanner(System.in);
         year = inputValue.nextInt();
